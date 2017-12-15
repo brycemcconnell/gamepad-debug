@@ -1,0 +1,139 @@
+.left-axes-v {
+	position: absolute;
+	top: 600px;
+	transform: rotateZ(90deg);
+}
+
+.left-axes-h {
+	position: absolute;
+	top: 600px;
+}
+.right-axes-v {
+	position: absolute;
+	top: 600px;
+	transform: rotateZ(90deg);
+	right: 0;
+}
+
+.right-axes-h {
+	position: absolute;
+	top: 600px;
+	right: 0;
+}
+
+.container {
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-image: url(controller.jpg);
+	height: 800px;
+	width: 800px;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.btn {
+	position: absolute;
+	
+	height: 40px;
+	width: 40px;
+	background-color: #f00;
+	border-radius: 50px;
+	
+}
+.btn-0 {
+	top: 551px;
+	left: 551px;
+}
+.btn-1 {
+	top: 501px;
+	left: 602px;
+}
+.btn-2 {
+	top: 498px;
+	left: 501px;
+}
+.btn-3 {
+	top: 450px;
+	left: 551px;
+}
+.btn-4 {
+	top: 126px;
+	left: 162px;
+	border-radius: unset;
+	width: 60px;
+}
+.btn-5 {
+	top: 126px;
+	left: 544px;
+	border-radius: unset;
+	width: 60px;
+}
+.btn-6 {
+	top: 400px;
+	left: 470px;
+	top: 183px;
+	left: 162px;
+	border-radius: unset;
+	width: 60px;
+	height: 80px;
+	border-radius: 25%;
+}
+.btn-7 {
+	top: 400px;
+	left: 470px;
+	top: 183px;
+	left: 544px;
+	border-radius: unset;
+	width: 60px;
+	height: 80px;
+	border-radius: 25%;
+}
+.btn-8 {
+	top: 454px;
+	left: 288px;
+	height: 30px;
+}
+.btn-9 {
+	top: 456px;
+	left: 426px;
+	height: 30px;
+}
+.btn-10 {
+	top: 583px;
+	left: 230px;
+	height: 96px;
+	width: 96px;
+}
+.btn-11 {
+	top: 400px;
+	top: 583px;
+	left: 425px;
+	height: 96px;
+	width: 96px;
+}
+.btn-12 {
+	top: 464px;
+	left: 162px;
+	border-radius: unset;
+}
+.btn-13 {
+	top: 529px;
+	left: 162px;
+	border-radius: unset;
+}
+.btn-14 {
+	top: 499px;
+	left: 127px;
+	border-radius: unset;
+}
+.btn-15 {
+	top: 499px;
+	left: 199px;
+	border-radius: unset;
+}
+.btn-16 {
+	top: 319px;
+	left: 400px;
+}
